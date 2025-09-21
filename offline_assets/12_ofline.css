@@ -120,7 +120,7 @@ yt-live-chat-text-message-renderer #content{
 border-style: solid;
 width: 400px;
 min-height: 80px;
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/youke_kuang.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/youke_kuang.png");
 border-image-slice: 30 30 30 30 fill;
 border-image-width: 20px 20px 20px 20px;
 padding: 10px 20px 10px 20px;
@@ -143,7 +143,7 @@ content: "";
 display: block;
 width:100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/youke_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/youke_tou.png");
 background-size: 65px 65px;
 background-repeat: no-repeat;
 position: absolute;
@@ -160,7 +160,7 @@ line-height: 18px !important;
 color: #ffffff!important;
 top: 5px!important;
 left: 98px;
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/youke_username.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/youke_username.png");
 border-image-slice: 15 20 15 20 fill;
 border-image-width: 20px 20px 20px 20px;
 text-align: center;
@@ -193,7 +193,7 @@ position: relative;
 
 
 yt-live-chat-text-message-renderer[privilegeType="3"] #content{
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_di.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_di.png");
 border-image-slice: 30 30 30 30 fill;
 border-image-width: 20px 20px 20px 20px;
 }
@@ -202,7 +202,7 @@ display: block;
 content: "";
 width: 435px;
 height: 95px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_diwen.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_diwen.png");
 background-size: 564px 205px;
 background-position: -80px -47px;
 position: absolute;
@@ -217,7 +217,7 @@ display: block;
 content: "";
 width: 450px;
 height: 110px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_zhuangban.png");
 background-size: 70px 70px;
 background-position:calc(100% + 0px) calc(100% + 0px);
 position: absolute;
@@ -231,7 +231,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_tou.png");
 background-size: 85px 85px;
 background-repeat: no-repeat;
 position: absolute;
@@ -244,8 +244,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -267,7 +267,7 @@ z-index: 100;
 
 
 yt-live-chat-text-message-renderer[privilegeType="2"] #content{
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_di.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_di.png");
 border-image-slice: 30 30 30 30 fill;
 border-image-width: 20px 20px 20px 20px;
 }
@@ -276,7 +276,7 @@ display: block;
 content: "";
 width: 434px;
 height: 94px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_diwen.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_diwen.png");
 background-size: 520px 170px;
 background-position: -50px -43px;
 position: absolute;
@@ -291,7 +291,7 @@ display: block;
 content: "";
 width: 450px;
 height: 110px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_zhuangban.png");
 background-size: 80px 80px;
 background-position:calc(100% + 0px) calc(100% + 0px);
 position: absolute;
@@ -307,7 +307,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_tou.png");
 background-size: 90px 90px;
 background-repeat: no-repeat;
 position: absolute;
@@ -320,8 +320,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -343,7 +343,7 @@ z-index:100;
 }
 
 yt-live-chat-text-message-renderer[privilegeType="1"] #content{
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_di.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_di.png");
 border-image-slice: 30 30 30 30 fill;
 border-image-width: 20px 20px 20px 20px;
 }
@@ -352,7 +352,7 @@ display: block;
 content: "";
 width: 435px;
 height: 95px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/zongdu_diwen.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/zongdu_diwen.png");
 background-size: 454px 176px;
 background-position:-18px -38px;
 position: absolute;
@@ -369,7 +369,7 @@ display: block;
 content: "";
 width: 450px;
 height: 110px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/tidu_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/tidu_zhuangban.png");
 background-size: 80px 80px;
 background-position:calc(100% + 0px) calc(100% + 0px);
 position: absolute;
@@ -384,7 +384,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/zongdu_real.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/zongdu_real.png");
 background-size: 90px 85px;
 background-repeat: no-repeat;
 position: absolute;
@@ -397,8 +397,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/jianzhang_username_zhuangshi.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/jianzhang_username_zhuangshi.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -525,7 +525,7 @@ yt-live-chat-text-message-renderer {
 
 
 yt-live-chat-paid-message-renderer:not(yt-live-chat-paid-message-renderer[giftname="superchat"]) #content{
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_kuang.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_kuang.png");
 border-image-slice: 30 30 30 30 fill;
 border-image-width: 20px 20px 20px 20px;
 width: 400px;
@@ -542,7 +542,7 @@ display: block;
 content: "";
 width: 110%;
 height: 300%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_di.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_di.png");
 background-size: 440px 181px;
 background-position: -10px -85px;
 position: absolute;
@@ -580,7 +580,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/zongdu_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/zongdu_tou.png");
 background-size: 80px 80px;
 background-repeat: no-repeat;
 position: absolute;
@@ -592,7 +592,7 @@ z-index: 2;
 yt-live-chat-paid-message-renderer:not(yt-live-chat-paid-message-renderer[giftname="superchat"]) #author-name{
 position: absolute;
 padding: 5px 10px 5px 10px;
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_username.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_username.png");
 border-image-slice: 15 20 15 20 fill;
 border-image-width: 20px 20px 20px 20px;
 text-align: center;
@@ -606,8 +606,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -623,7 +623,7 @@ top: 30px;
 
 
 yt-live-chat-paid-message-renderer[giftname="superchat"] #card{
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/sc_di.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/sc_di.png");
 width: 422px;
 height: 280px;
 background-repeat: no-repeat;
@@ -648,7 +648,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/zongdu_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/zongdu_tou.png");
 background-size: 90px 90px;
 background-repeat: no-repeat;
 position: absolute;
@@ -664,7 +664,7 @@ top: 220px;
 left: 120px;
 text-align: center;
 z-index: 100;
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_username.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_username.png");
 border-image-slice: 15 20 15 20 fill;
 border-image-width: 20px 20px 20px 20px;
 text-align: center;
@@ -683,8 +683,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -699,8 +699,8 @@ display: block;
 content: "";
 width: calc(100% + 50px);
 height: calc(100% + 50px);
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/sc_zhuangban_l.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/sc_zhuangban_r.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/sc_zhuangban_l.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/sc_zhuangban_r.png");
 background-size: 60px 12px, 80px 20px;
 background-position: -0px calc(100% - 20px), calc(100% + 0px) 10px;
 position: absolute;
@@ -790,7 +790,7 @@ yt-live-chat-paid-message-renderer {
 }
 
 yt-live-chat-membership-item-renderer #card{
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/shagnjian_di.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/shagnjian_di.png");
 width: 422px;
 height: 280px;
 background-repeat: no-repeat;
@@ -805,7 +805,7 @@ content: "";
 width: 100%;
 height: 100%;
 background-image: 
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/xinhuiyuanshangjian.png");
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/xinhuiyuanshangjian.png");
 background-size: 280px 80px;
 background-position: center center;
 position: absolute;
@@ -833,7 +833,7 @@ content: "";
 display: block;
 width: 100px;
 height: 100px;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/zongdu_tou.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/zongdu_tou.png");
 background-size: 90px 90px;
 background-repeat: no-repeat;
 position: absolute;
@@ -856,7 +856,7 @@ position:relative;
 top: 215px;
 text-align: center;
 z-index: 100;
-border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_username.png");
+border-image-source: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_username.png");
 border-image-slice: 15 20 15 20 fill;
 border-image-width: 20px 20px 20px 20px;
 min-width: 180px!important;
@@ -870,8 +870,8 @@ display: block;
 content: "";
 width: 100%;
 height: 100%;
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/liwu_zhuangban.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/liwu_zhuangban.png");
 background-size: 20px 20px;
 background-position: 4px center, calc(100% - 4px), center;
 position: absolute;
@@ -886,8 +886,8 @@ display: block;
 content: "";
 width: calc(100% + 50px);
 height: calc(100% + 50px);
-background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/sc_zhuangban_l.png"),
-url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/refs/heads/main/offline_assets/sc_zhuangban_r.png");
+background-image: url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/sc_zhuangban_l.png"),
+url("https://raw.gitcode.com/Ika_Noida/BulletCommentStyle/raw/main/offline_assets/sc_zhuangban_r.png");
 background-size: 60px 12px, 80px 20px;
 background-position: -0px calc(100% - 20px), calc(100% + 0px) 10px;
 position: absolute;
@@ -913,4 +913,4 @@ height:30%;
 width:30%;
 }
 
-@import url("https://raw.githubusercontent.com/YKChika/BulletCommentStyle/refs/heads/main/offline_assets/12_ofline.css");
+@import url("https://raw.githubusercontent.com/YKChika/BulletCommentStyle/raw/main/offline_assets/12_ofline.css");
